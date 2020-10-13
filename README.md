@@ -6,5 +6,5 @@
     HTML/CSS
     Javascript
     GitHub
-  .## blog for the company where people can post articles and customers can benefit from the content.
+  .##This application is a  blog post where people can post articles and customers can benefit from the content.
 
